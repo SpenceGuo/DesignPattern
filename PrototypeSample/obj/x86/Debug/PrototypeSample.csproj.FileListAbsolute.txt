@@ -1,0 +1,14 @@
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\PrototypeSample\bin\Debug\PrototypeSample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\PrototypeSample\bin\Debug\PrototypeSample.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\PrototypeSample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\PrototypeSample\obj\x86\Debug\PrototypeSample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）-10月份完成\CSharpDesignPattern\DesignPattern\PrototypeSample\obj\x86\Debug\PrototypeSample.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\PrototypeSample\obj\x86\Debug\PrototypeSample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\PrototypeSample\obj\x86\Debug\PrototypeSample.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\PrototypeSample\bin\Debug\PrototypeSample.exe
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\PrototypeSample\bin\Debug\PrototypeSample.pdb
+E:\出版图书编写\2012-2-设计模式教程（C#版）\教学资料\C#设计模式源代码(20121125)\DesignPattern\PrototypeSample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\PrototypeSample\bin\Debug\PrototypeSample.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\PrototypeSample\bin\Debug\PrototypeSample.pdb
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\PrototypeSample\obj\x86\Debug\PrototypeSample.exe
+E:\出版图书编写\2012-2-C#设计模式\《C#设计模式》教学资料(20130615)\《C#设计模式》源代码(20130615)\DesignPattern\PrototypeSample\obj\x86\Debug\PrototypeSample.pdb
